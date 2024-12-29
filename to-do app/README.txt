@@ -41,7 +41,7 @@ The **Cyberpunk To-Do List App** is a sleek and futuristic task management tool.
 ### 1. Clone the Repository
 
 git clone https://github.com/Levi-Adrid/Des-todo-app.git
-cd des-todo-app
+cd to-do app
 ```
 
 ### 2. Set Up the Virtual Environment (Optional but Recommended)
@@ -52,7 +52,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ### 3. Install Dependencies
 
-pip install -r requirements.txt
+pip install Flask==2.3.0
+pip install Flask-SQLAlchemy==3.0.0
+pip install Flask-CORS==4.0.0
+
 ```
 
 ### 4. Initialize the Database
