@@ -40,8 +40,8 @@ The **Cyberpunk To-Do List App** is a sleek and futuristic task management tool.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-repo/cyberpunk-todo.git
-cd cyberpunk-todo
+git clone https://github.com/Levi-Adrid/Des-todo-app.git
+cd des-todo-app
 ```
 
 ### 2. Set Up the Virtual Environment (Optional but Recommended)
